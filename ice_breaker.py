@@ -5,7 +5,7 @@ from langchain.chains import LLMChain
 from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from third_parties.linkedin import scrape_linkedin_profile
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 if __name__ == "__main__":
     print("Hello langchain!")
